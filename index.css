@@ -1,0 +1,24 @@
+body{
+    background: #b6c2cb;
+}
+.center{
+    margin: auto;
+    width: 1000px;
+}
+.middle{
+    text-align: center;
+}
+.center-small{
+    margin: 0,auto;
+}
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ml-10{
+    margin: 10px;
+}
+.plr-10{
+    padding-left:10px;
+    padding-right: 10px;
+}
+
